@@ -1,0 +1,296 @@
+{
+    "Shoes": {
+        "Kids": [
+            {
+                "name": "KidsShoe1",
+                "price": "1",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa aliquid tempora numquam obcaecati totam enim fuga quasi odio, eos dolor laborum modi, inventore maxime repudiandae, eaque nam perspiciatis. Consequuntur, quas!",
+                "sizes":["S","M","L","XL"],
+                "colors":["black","white","yellow","blue","green"],
+                "img":"https://www.w3schools.com/css/img_fjords.jpg",
+                "category":"Shoes",
+                "subcategory":"Kids"
+            },
+            {
+                "name": "KidsShoe2",
+                "price": "2",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa aliquid tempora numquam obcaecati totam enim fuga quasi odio, eos dolor laborum modi, inventore maxime repudiandae, eaque nam perspiciatis. Consequuntur, quas!",
+                "sizes":["S","M","L","XL"],
+                "colors":["black","white","yellow","blue","green"],
+                "img":"https://www.w3schools.com/css/img_fjords.jpg",
+                "category":"Shoes",
+                "subcategory":"Kids"
+            },
+            {
+                "name": "KidsShoe3",
+                "price": "3",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa aliquid tempora numquam obcaecati totam enim fuga quasi odio, eos dolor laborum modi, inventore maxime repudiandae, eaque nam perspiciatis. Consequuntur, quas!",
+                "sizes":["S","M","L","XL"],
+                "colors":["black","white","yellow","blue","green"],
+                "img":"https://www.w3schools.com/css/img_fjords.jpg",
+                "category":"Shoes",
+                "subcategory":"Kids"
+            }
+        ],
+        "Women":[
+            {
+                "name": "WomenShoe1",
+                "price": "4",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa aliquid tempora numquam obcaecati totam enim fuga quasi odio, eos dolor laborum modi, inventore maxime repudiandae, eaque nam perspiciatis. Consequuntur, quas!",
+                "sizes":["S","M","L","XL"],
+                "colors":["black","white","yellow","blue","green"],
+                "img":"https://www.w3schools.com/css/img_fjords.jpg",
+                "category":"Shoes",
+                "subcategory":"Women"
+            },
+            {
+                "name": "WomenShoe2",
+                "price": "5",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa aliquid tempora numquam obcaecati totam enim fuga quasi odio, eos dolor laborum modi, inventore maxime repudiandae, eaque nam perspiciatis. Consequuntur, quas!",
+                "sizes":["S","M","L","XL"],
+                "colors":["black","white","yellow","blue","green"],
+                "img":"https://www.w3schools.com/css/img_fjords.jpg",
+                "category":"Shoes",
+                "subcategory":"Women"
+            },
+            {
+                "name": "WomenShoe3",
+                "price": "6",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa aliquid tempora numquam obcaecati totam enim fuga quasi odio, eos dolor laborum modi, inventore maxime repudiandae, eaque nam perspiciatis. Consequuntur, quas!",
+                "sizes":["S","M","L","XL"],
+                "colors":["black","white","yellow","blue","green"],
+                "img":"https://www.w3schools.com/css/img_fjords.jpg",
+                "category":"Shoes",
+                "subcategory":"Women"
+            }
+        ],
+        "Men":[
+            {
+                "name": "MenShoe1",
+                "price": "7",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa aliquid tempora numquam obcaecati totam enim fuga quasi odio, eos dolor laborum modi, inventore maxime repudiandae, eaque nam perspiciatis. Consequuntur, quas!",
+                "sizes":["S","M","L","XL"],
+                "colors":["black","white","yellow","blue","green"],
+                "img":"https://www.w3schools.com/css/img_fjords.jpg",
+                "category":"Shoes",
+                "subcategory":"Men"
+            },
+            {
+                "name": "MenShoe2",
+                "price": "8",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa aliquid tempora numquam obcaecati totam enim fuga quasi odio, eos dolor laborum modi, inventore maxime repudiandae, eaque nam perspiciatis. Consequuntur, quas!",
+                "sizes":["S","M","L","XL"],
+                "colors":["black","white","yellow","blue","green"],
+                "img":"https://www.w3schools.com/css/img_fjords.jpg",
+                "category":"Shoes",
+                "subcategory":"Men"
+            },
+            {
+                "name": "MenShoe3",
+                "price": "9",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa aliquid tempora numquam obcaecati totam enim fuga quasi odio, eos dolor laborum modi, inventore maxime repudiandae, eaque nam perspiciatis. Consequuntur, quas!",
+                "sizes":["S","M","L","XL"],
+                "colors":["black","white","yellow","blue","green"],
+                "img":"https://www.w3schools.com/css/img_fjords.jpg",
+                "category":"Shoes",
+                "subcategory":"Men"
+            }
+        ]
+    },
+    "Shirts": {
+        "Kids": [
+            {
+                "name": "KidsShirt1",
+                "price": "1",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa aliquid tempora numquam obcaecati totam enim fuga quasi odio, eos dolor laborum modi, inventore maxime repudiandae, eaque nam perspiciatis. Consequuntur, quas!",
+                "sizes":["S","M","L","XL"],
+                "colors":["black","white","yellow","blue","green"],
+                "img":"https://www.w3schools.com/css/img_fjords.jpg",
+                "category":"Shirts",
+                "subcategory":"Kids"
+            },
+            {
+                "name": "KidsShirt2",
+                "price": "2",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa aliquid tempora numquam obcaecati totam enim fuga quasi odio, eos dolor laborum modi, inventore maxime repudiandae, eaque nam perspiciatis. Consequuntur, quas!",
+                "sizes":["S","M","L","XL"],
+                "colors":["black","white","yellow","blue","green"],
+                "img":"https://www.w3schools.com/css/img_fjords.jpg",
+                "category":"Shirts",
+                "subcategory":"Kids"
+            },
+            {
+                "name": "KidsShirt3",
+                "price": "3",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa aliquid tempora numquam obcaecati totam enim fuga quasi odio, eos dolor laborum modi, inventore maxime repudiandae, eaque nam perspiciatis. Consequuntur, quas!",
+                "sizes":["S","M","L","XL"],
+                "colors":["black","white","yellow","blue","green"],
+                "img":"https://www.w3schools.com/css/img_fjords.jpg",
+                "category":"Shirts",
+                "subcategory":"Kids"
+            }
+        ],
+        "Women":[
+            {
+                "name": "WomenShirt1",
+                "price": "4",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa aliquid tempora numquam obcaecati totam enim fuga quasi odio, eos dolor laborum modi, inventore maxime repudiandae, eaque nam perspiciatis. Consequuntur, quas!",
+                "sizes":["S","M","L","XL"],
+                "colors":["black","white","yellow","blue","green"],
+                "img":"https://www.w3schools.com/css/img_fjords.jpg",
+                "category":"Shirts",
+                "subcategory":"Women"
+            },
+            {
+                "name": "WomenShirt2",
+                "price": "5",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa aliquid tempora numquam obcaecati totam enim fuga quasi odio, eos dolor laborum modi, inventore maxime repudiandae, eaque nam perspiciatis. Consequuntur, quas!",
+                "sizes":["S","M","L","XL"],
+                "colors":["black","white","yellow","blue","green"],
+                "img":"https://www.w3schools.com/css/img_fjords.jpg",
+                "category":"Shirts",
+                "subcategory":"Women"
+            },
+            {
+                "name": "WomenShirt3",
+                "price": "6",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa aliquid tempora numquam obcaecati totam enim fuga quasi odio, eos dolor laborum modi, inventore maxime repudiandae, eaque nam perspiciatis. Consequuntur, quas!",
+                "sizes":["S","M","L","XL"],
+                "colors":["black","white","yellow","blue","green"],
+                "img":"https://www.w3schools.com/css/img_fjords.jpg",
+                "category":"Shirts",
+                "subcategory":"Women"
+            }
+        ],
+        "Men":[
+            {
+                "name": "MenShirt1",
+                "price": "7",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa aliquid tempora numquam obcaecati totam enim fuga quasi odio, eos dolor laborum modi, inventore maxime repudiandae, eaque nam perspiciatis. Consequuntur, quas!",
+                "sizes":["S","M","L","XL"],
+                "colors":["black","white","yellow","blue","green"],
+                "img":"https://www.w3schools.com/css/img_fjords.jpg",
+                "category":"Shirts",
+                "subcategory":"Men"
+            },
+            {
+                "name": "MenShirt2",
+                "price": "8",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa aliquid tempora numquam obcaecati totam enim fuga quasi odio, eos dolor laborum modi, inventore maxime repudiandae, eaque nam perspiciatis. Consequuntur, quas!",
+                "sizes":["S","M","L","XL"],
+                "colors":["black","white","yellow","blue","green"],
+                "img":"https://www.w3schools.com/css/img_fjords.jpg",
+                "category":"Shirts",
+                "subcategory":"Men"
+            },
+            {
+                "name": "MenShirt3",
+                "price": "9",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa aliquid tempora numquam obcaecati totam enim fuga quasi odio, eos dolor laborum modi, inventore maxime repudiandae, eaque nam perspiciatis. Consequuntur, quas!",
+                "sizes":["S","M","L","XL"],
+                "colors":["black","white","yellow","blue","green"],
+                "img":"https://www.w3schools.com/css/img_fjords.jpg",
+                "category":"Shirts",
+                "subcategory":"Men"
+            }
+        ]
+    },
+    "Pants":{
+        "Kids": [
+            {
+                "name": "KidsPants1",
+                "price": "1",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa aliquid tempora numquam obcaecati totam enim fuga quasi odio, eos dolor laborum modi, inventore maxime repudiandae, eaque nam perspiciatis. Consequuntur, quas!",
+                "sizes":["S","M","L","XL"],
+                "colors":["black","white","yellow","blue","green"],
+                "img":"https://www.w3schools.com/css/img_fjords.jpg",
+                "category":"Pants",
+                "subcategory":"Kids"
+            },
+            {
+                "name": "KidsPants2",
+                "price": "2",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa aliquid tempora numquam obcaecati totam enim fuga quasi odio, eos dolor laborum modi, inventore maxime repudiandae, eaque nam perspiciatis. Consequuntur, quas!",
+                "sizes":["S","M","L","XL"],
+                "colors":["black","white","yellow","blue","green"],
+                "img":"https://www.w3schools.com/css/img_fjords.jpg",
+                "category":"Pants",
+                "subcategory":"Kids"
+            },
+            {
+                "name": "KidsPants3",
+                "price": "3",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa aliquid tempora numquam obcaecati totam enim fuga quasi odio, eos dolor laborum modi, inventore maxime repudiandae, eaque nam perspiciatis. Consequuntur, quas!",
+                "sizes":["S","M","L","XL"],
+                "colors":["black","white","yellow","blue","green"],
+                "img":"https://www.w3schools.com/css/img_fjords.jpg",
+                "category":"Pants",
+                "subcategory":"Kids"
+            }
+        ],
+        "Women":[
+            {
+                "name": "WomenPants1",
+                "price": "4",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa aliquid tempora numquam obcaecati totam enim fuga quasi odio, eos dolor laborum modi, inventore maxime repudiandae, eaque nam perspiciatis. Consequuntur, quas!",
+                "sizes":["S","M","L","XL"],
+                "colors":["black","white","yellow","blue","green"],
+                "img":"https://www.w3schools.com/css/img_fjords.jpg",
+                "category":"Pants",
+                "subcategory":"Women"
+            },
+            {
+                "name": "WomenPants2",
+                "price": "5",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa aliquid tempora numquam obcaecati totam enim fuga quasi odio, eos dolor laborum modi, inventore maxime repudiandae, eaque nam perspiciatis. Consequuntur, quas!",
+                "sizes":["S","M","L","XL"],
+                "colors":["black","white","yellow","blue","green"],
+                "img":"https://www.w3schools.com/css/img_fjords.jpg",
+                "category":"Pants",
+                "subcategory":"Women"
+            },
+            {
+                "name": "WomenPants3",
+                "price": "6",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa aliquid tempora numquam obcaecati totam enim fuga quasi odio, eos dolor laborum modi, inventore maxime repudiandae, eaque nam perspiciatis. Consequuntur, quas!",
+                "sizes":["S","M","L","XL"],
+                "colors":["black","white","yellow","blue","green"],
+                "img":"https://www.w3schools.com/css/img_fjords.jpg",
+                "category":"Pants",
+                "subcategory":"Women"
+            }
+        ],
+        "Men":[
+            {
+                "name": "MenPants1",
+                "price": "7",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa aliquid tempora numquam obcaecati totam enim fuga quasi odio, eos dolor laborum modi, inventore maxime repudiandae, eaque nam perspiciatis. Consequuntur, quas!",
+                "sizes":["S","M","L","XL"],
+                "colors":["black","white","yellow","blue","green"],
+                "img":"https://www.w3schools.com/css/img_fjords.jpg",
+                "category":"Pants",
+                "subcategory":"Men"
+            },
+            {
+                "name": "MenPants2",
+                "price": "8",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa aliquid tempora numquam obcaecati totam enim fuga quasi odio, eos dolor laborum modi, inventore maxime repudiandae, eaque nam perspiciatis. Consequuntur, quas!",
+                "sizes":["S","M","L","XL"],
+                "colors":["black","white","yellow","blue","green"],
+                "img":"https://www.w3schools.com/css/img_fjords.jpg",
+                "category":"Pants",
+                "subcategory":"Men"
+            },
+            {
+                "name": "MenPants3",
+                "price": "9",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa aliquid tempora numquam obcaecati totam enim fuga quasi odio, eos dolor laborum modi, inventore maxime repudiandae, eaque nam perspiciatis. Consequuntur, quas!",
+                "sizes":["S","M","L","XL"],
+                "colors":["black","white","yellow","blue","green"],
+                "img":"https://www.w3schools.com/css/img_fjords.jpg",
+                "category":"Pants",
+                "subcategory":"Men"
+            }
+        ]
+    }
+}

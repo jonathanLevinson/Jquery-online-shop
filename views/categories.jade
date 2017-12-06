@@ -1,0 +1,24 @@
+
+.categories
+
+  div(class="panel-group" id="accordion")
+    - var j = 1;   
+    - for (var key in cat) {
+        - var collapse = "collapse" + j;
+        div(class="panel panel-default") 
+          div(class="panel-heading")
+            h4(class="panel-title" data-toggle="collapse" data-parent="#accordion" href="##{collapse}") #{key}
+              //- a(data-toggle="collapse" data-parent="#accordion" href="##{collapse}") #{key}
+          div(id="#{collapse}" class="panel-collapse collapse")
+            div(class="panel-body")
+              ul
+                - var len = cat[key].length;
+                - for (var i = 0; i < len; ++i) {
+                  - var subCat = cat[key][i]
+                  li 
+                    a(href="/products/#{key}/#{subCat}") #{subCat}
+                - }
+        - j++;
+    - } 
+  //- h1= title
+  //- p Welcome to #{title} this is index.jade

@@ -1,0 +1,70 @@
+*{
+    box-sizing: border-box
+}
+
+body {
+    margin: 0;
+    background-color:#EEEEEE;
+}
+
+.jumbotron {
+    background-color: #77C4D3;
+    color: #333745;
+    text-align:center;
+}
+
+h1 span{
+    border: 2px solid #333745;
+    margin:auto;
+    padding: 5px;
+}
+
+section {
+    margin-left:20px;
+}
+
+#categories {
+    background-color:white;    
+}
+
+ul {
+  list-style-type: none;
+}
+
+.panel-group {
+    margin:10px;
+}
+
+.panel-default > .panel-heading {
+    background-color: #77C4D3;
+}
+
+#products {
+    background-color:white;
+}
+
+img {
+    width: 100%;
+}
+.product-name {
+    padding-top:10px;
+    text-align: center;
+}
+
+.price:before,.productTotal:before,.totalSum:before{
+    content:'$ ';
+}
+
+.details {
+    display: flex;
+    justify-content: space-around;
+}
+table {
+    width: 100%;
+}
+th {
+    padding: 10px;
+}
+input {
+    width:50%;    
+}

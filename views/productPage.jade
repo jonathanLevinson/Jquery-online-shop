@@ -1,0 +1,19 @@
+extends layout
+
+block content
+    div(class="productPage")
+        div(id="productNameContainer")
+            h3(id="productName") #{prod["name"]}
+        div(class="detailsContainer row")
+            div(class="col-md-6" id="detailsLeft")
+                - var img = prod["img"]
+                img(src="#{img}")
+            div(class="col-md-6" id="detailsRight")
+                p(id="description") #{prod["description"]}
+                div(id="options")
+                div(id="purchase")
+                    p Price:
+                    p(class="price") #{prod["price"]}
+                    input(type="number" min="1" max="10" value="1" style="width:40px" id="qty")
+                    - var path = '/cart/add/' + prod["category"] + '/' + prod["subcategory"] + '/' + prod["name"] 
+                    span(class="checkQuantityAndAdd" id="#{path}") Add to cart
